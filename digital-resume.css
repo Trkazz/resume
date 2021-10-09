@@ -1,0 +1,13 @@
+body{ background-color: rgb(63, 126, 221);
+border:brown; max-width: 1000px; margin: 0 auto;}
+.picture { padding: auto;}
+img {max-width: 125px;}
+
+h1 {font-family: 'Times New Roman', Times, serif; font-style: italic;
+background-color:crimson; margin-inline: 20px;}
+.red {background-color: crimson; margin-inline: 20px; }
+
+.main {background-color: crimson; margin-inline: 20px; }
+.study {background-color: crimson; margin-inline: 20px;}
+.Experience {background-color: crimson; margin-inline: 20px;}
+footer {background-color: crimson; margin-inline: 20px;}

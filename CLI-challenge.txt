@@ -1,0 +1,47 @@
+challenge 1: 
+
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ ls
+CLI-challenge.txt
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ attrib +h +s +r CLI-challenge.txt
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ attrib -h -s -r CLI-challenge.txt
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$
+
+Challenge 2:
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ ls
+CLI-challenge.txt
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ mkdir -p we/creat/folder/for/fun/and/please/check/if/it/works
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ rm -r we
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ mkdir -p we/{make,folder,for,fun}
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ rm -r we
+
+
+challenge 3:
+
+this is how we append a massage without creating a new line 
+
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ cat CLI-challenge.txt
+
+tareq@LAPTOP-M09FHL3H MINGW64 ~/Desktop/hyf-html-exercises/Week1
+$ echo this is how we append a massage without creating a new line >>CLI-challenge.txt
+
+
